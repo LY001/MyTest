@@ -27,6 +27,8 @@
     
     NSLog(@"肥羊羊");
     
+    NSLog(@"肥羊羊");NSLog(@"肥羊羊");NSLog(@"肥羊羊");NSLog(@"肥羊羊");NSLog(@"肥羊羊");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
