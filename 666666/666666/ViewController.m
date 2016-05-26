@@ -23,6 +23,8 @@
     NSLog(@"9999895645645451421212");
     
     
+    NSLog(@"你是不是撒");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
